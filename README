@@ -1,4 +1,4 @@
-buzz is a simple reaction tester and accompanying web site.
+buzz is a simple reaction tester written in Java and accompanying web site.
 
 To run the website, you will need to create a file web/config.php, with contents like so:
 
