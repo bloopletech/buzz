@@ -1,0 +1,9 @@
+buzz is a simple reaction tester and accompanying web site.
+
+To run the website, you will need to create a file web/config.php, with contents like so:
+
+<?
+$CONFIG = array('host' => 'localhost', 'username' => 'buzz', 'password' => 'oranges', 'database' => 'buzz');
+?>
+
+Modify the details to suit your MySQL database details, then run web/buzz.sql in your database.

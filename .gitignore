@@ -1,0 +1,6 @@
+web/config.php
+web/extra/
+**/*.jar
+*.jar
+.DS_Store
+**/.DS_Store

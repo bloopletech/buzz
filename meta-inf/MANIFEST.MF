@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: buzz
+Main-Class: com.buzz.Buzz
+SplashScreen-Image: com/buzz/buzz.png
